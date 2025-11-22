@@ -5,11 +5,12 @@
 # Fator mais Importante - Exemplo
 
 > **Emissão:** 11 / 2025  
-> O aprendizado de máquina (ML) não só faz previsões, mas também permite **ranquear** a importância dos fatores que as afetam.
 
 ---
 
 **[Home](https://quantimportbrazil.github.io/Sobre/)**  
+
+O aprendizado de máquina (ML) não só emite as previsões, mas também nos permite ranquear a importância dos fatores que as afetam.
 
 Para demonstrar essa capacidade, dentre as **previsões realizadas**, escolhemos aquela que apresentou a maior variação em relação ao ano anterior:  
 
