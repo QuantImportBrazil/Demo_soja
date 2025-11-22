@@ -18,9 +18,9 @@ Essa grande variação entre uma previsão e outra pode ser observada no gráfic
 
 ![Gráfico de Previsão](3102.png)
 
-# Note que, mesmo tendo a importação real tendo sido maior do que a importação prevista para o mês 09 de 2025, o ML previu um valor 50 mil toneladas ainda menor para 09 de 2026!
+Note que, mesmo tendo a importação real tendo sido maior do que a importação prevista para o mês 09 de 2025, o ML previu um valor 50 mil toneladas ainda menor para 09 de 2026!
 
-# A razão apontada pelo ML para essa redução foi a queda nas exportação apresentada no quadro abaixo::
+A razão apontada pelo ML para essa redução foi a queda nas exportação apresentada no quadro abaixo::
 
 ![Fator mais Importante](fator_mais_importante.png)  
 
