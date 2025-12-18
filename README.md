@@ -1,4 +1,4 @@
-# <img src="logo.png" alt="Logo QuantImport" width="70"> QuantImport  
+# <img src="logo.png" alt="Logo QuantImport" width="70"> QuantImport 🎄✨  
 
 **[Home](https://quantimportbrazil.github.io/Sobre/)** | **[Voltar para Demos](https://quantimportbrazil.github.io/Demo/)**
 
