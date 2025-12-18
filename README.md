@@ -18,7 +18,7 @@ Para demonstrar essa capacidade, selecionamos a projeção que apresentou a vari
 
 Essa **variação significativa** pode ser observada no gráfico abaixo:
 
-![Gráfico de Previsão](Paranaguá_Nitrogenados.png)  
+![Gráfico de Previsão](Paranaguá_Nitrogenados1.png)  
 
 **Análise das projeções:**  
 * A previsão realizada em **Dez/24** para desembarque em **Set/25** foi de **110 kt**.  
