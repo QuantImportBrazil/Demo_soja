@@ -12,8 +12,8 @@ Emissão: 1-2026
 
 Elaboradas por URF/NCM:  
 
-> [Porto de Santos - SP](https://quantimportbrazil.github.io/Demo_soja_Santos-SP/)  
-> [Porto de Paranaguá - PR](https://quantimportbrazil.github.io/Demo_soja_Paranagua-PR/)  
+> [Porto de Santos - SP](https://quantimportbrazil.github.io/0817800_-_porto_de_santos_soja_mesmo_triturada_exceto_/)  
+> [Porto de Paranaguá - PR](https://quantimportbrazil.github.io/0917800_-_porto_de_paranagua_soja_mesmo_triturada_exceto_/)  
   
 ---
 
