@@ -12,6 +12,12 @@ Emissão: 1-2026
 
 Elaboradas por URF/NCM:  
 
+> Com base em backtests realizados ao longo dos últimos 15 anos, as previsões com machine learning reduziram o erro médio mensal em 30 a 60 kt em relação à regressão linear.  
+>
+> Na prática, isso significa acertar — ou evitar — o equivalente a um navio Panamax a cada 1 ou 2 meses de embarque. ⭐  
+>
+> Em um mercado onde um único navio pode representar milhões em frete, demurrage e capital empatado, a questão não é se vale a pena prever melhor, mas quanto custa não fazê-lo.  
+
 > [Porto de Santos - SP](https://quantimportbrazil.github.io/porto_de_santos_soja/)  
 > [Porto de Paranaguá - PR](https://quantimportbrazil.github.io/porto_de_paranagua_soja/)  
   
