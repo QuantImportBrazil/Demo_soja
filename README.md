@@ -12,9 +12,9 @@ Emissão: 1-2026
 
 Elaboradas por URF/NCM:  
 
-> Com base em *backtests* realizados ao longo dos últimos 15 anos, as previsões com *machine learning* reduziram o erro médio mensal em 30 a 60 kt em relação à regressão linear.  
+> Nesses dois exemplos dos links a seguir, com base em *backtests* realizados ao longo dos anos dispoaníveis de histórico, as previsões com *machine learning* reduziram o erro médio mensal em 60 kt aproximadamente em relação à regressão linear.  
 >
-> Na prática, isso equivale a acertar — ou evitar — o carregamento de um navio Panamax a cada 1 ou 2 meses de embarque. ⭐  
+> Na prática, isso equivale a errar menos um navio Panamax por mês no planejamento de até 12 meses a frente. ⭐  
 >
 > Em um mercado em que um único navio pode representar milhões em frete, demurrage e capital empatado, a pergunta não é se vale a pena prever melhor, mas quanto custa continuar prevendo pior do que o possível.  
 
