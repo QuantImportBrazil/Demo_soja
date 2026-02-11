@@ -8,7 +8,7 @@
 
 ---
 
-Emissão: 1-2026  
+Emissão: 2-2026  
 
 Elaboradas por URF/NCM:  
 
@@ -18,8 +18,8 @@ Elaboradas por URF/NCM:
 >
 > Em um mercado em que um único navio pode representar milhões em frete, demurrage e capital empatado, a pergunta não é se vale a pena prever melhor, mas quanto custa continuar prevendo pior do que o possível.  
 
-> [Porto de Santos – SP](https://quantimportbrazil.github.io/porto_de_santos_soja/)  
-> [Porto de Paranaguá – PR](https://quantimportbrazil.github.io/porto_de_paranagua_soja/)  
+> [Porto de Santos – SP](https://quantimportbrazil.github.io/porto_de_santos_soja_fev_26/)  
+> [Porto de Paranaguá – PR](https://quantimportbrazil.github.io/porto_de_paranagua_soja_fev_26/)  
 
 ---
 
