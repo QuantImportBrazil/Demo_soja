@@ -12,7 +12,7 @@ Emissão: 2-2026
 
 Elaboradas por URF/NCM:  
 
-> Nesses dois exemplos dos links a seguir, com base em *backtests* realizados ao longo dos anos dispoaníveis de histórico, as previsões com *machine learning* reduziram o erro médio mensal em 60 kt aproximadamente em relação à regressão linear.  
+> Nesses dois exemplos dos links a seguir, com base em *backtests* realizados ao longo dos anos disponíveis de histórico, as previsões com *machine learning* reduziram o erro médio mensal em 60 kt aproximadamente em relação à regressão linear.  
 >
 > Na prática, isso equivale a errar menos um navio Panamax por mês no planejamento de até 12 meses a frente. ⭐  
 >
