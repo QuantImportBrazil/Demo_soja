@@ -10,9 +10,9 @@
 ---
 
 ### Projeções por Complexos Portuários
-* [São Paulo – Sementes e frutos oleaginosos (SH2 12)](https://quantimportbrazil.github.io/exmplo_export_agric_port_1/)
-* [São Paulo – Açúcares (SH2 17)](https://quantimportbrazil.github.io/exmplo_export_agric_port_2/)
-* [Maranhão – Sementes e frutos oleaginosos (SH2 12)](https://quantimportbrazil.github.io/exmplo_export_agric_port_3)
+* [São Paulo – Sementes e frutos oleaginosos (SH2 12)](https://quantimportbrazil.github.io/export_agric_port_1/)
+* [São Paulo – Açúcares (SH2 17)](https://quantimportbrazil.github.io/export_agric_port_2/)
+* [Maranhão – Sementes e frutos oleaginosos (SH2 12)](https://quantimportbrazil.github.io/export_agric_port_3)
 
 ---
 
